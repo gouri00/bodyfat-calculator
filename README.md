@@ -41,9 +41,4 @@ A complete machine learning + Flask web application that predicts **body fat per
 
 ---
 
-## 🚀 Run the Project Locally
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/bodyfat-calculator.git
-cd bodyfat-calculator
